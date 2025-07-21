@@ -2,13 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in Sociology (Expected 2027) Stanford University 
+subtitle: Sociologist and Data Scientist of Education 
 
 profile:
   align: right
-  image: profilepichome.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info: >
+    PhD in Sociology, Stanford University (expected 2027)
+    MA in Sociology, Stanford University (2022)
+    BA in Sociology (Honors), University of British Columbia (2020)
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
