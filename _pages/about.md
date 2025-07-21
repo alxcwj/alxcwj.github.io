@@ -9,9 +9,9 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    PhD in Sociology, Stanford University (expected 2027)
-    MA in Sociology, Stanford University (2022)
-    BA in Sociology (Honors), University of British Columbia (2020)
+    <p>PhD in Sociology, Stanford University (expected 2027)</p>
+    <p>MA in Sociology, Stanford University (2022)</p>
+    <p>BA in Sociology (Honors), University of British Columbia (2020)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
