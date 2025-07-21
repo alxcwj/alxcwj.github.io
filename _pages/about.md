@@ -2,26 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in Sociology (Expected 2027) Stanford University 
+subtitle: Sociologist and Data Scientist of Education 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info: >
+    <p>PhD in Sociology, Stanford University (expected 2027)</p>
+    <p>MA in Sociology, Stanford University (2022)</p>
+    <p>BA in Sociology (Honors), University of British Columbia (2020)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+ 
 ---
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
