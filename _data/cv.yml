@@ -6,9 +6,9 @@
     - name: Address
       value: 450 Jane Stanford Way, Building 120, Room 160, Stanford, CA 94305-2047
     - name: Phone
-      value: (650) 407-9639
+      value: 
     - name: Email
-      value: alexwjchow@stanford.edu
+      value: alexwjchow[at]stanford.edu
     - name: Updated
       value: Jan 2026
 
