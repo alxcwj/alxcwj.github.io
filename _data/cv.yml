@@ -1,12 +1,10 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Alex Weijie Chow
+    - name: Name
+      value: Alex Chow
     - name: Address
       value: 450 Jane Stanford Way, Building 120, Room 160, Stanford, CA 94305-2047
-    - name: Phone
-      value: 
     - name: Email
       value: alexwjchow[at]stanford.edu
     - name: Updated
@@ -48,7 +46,7 @@
   contents:
     - title: Peer-Reviewed Articles
       items:
-        - "Chow, Alex, and Neil Guppy. 2021. Intergenerational Educational Mobility Over the Past Century in Canada."
+        - "Chow, Alex, and Neil Guppy. 2021. \"Intergenerational Educational Mobility Over the Past Century in Canada.\" Canadian Review of Sociology 58(3):372-398. https://doi.org/10.1111/cars.12348"
     - title: Works in Progress
       items:
         - "Chow, Alex. \"The Subjective Social Ladder: Actual, Perceived, and Projected Mobility in 22 Countries.\" Under review."
@@ -81,7 +79,7 @@
   contents:
     - year: 2020
       items:
-        - Governor General\'s Silver Medal in Arts, UBC
+        - "Governor General's Silver Medal in Arts, UBC"
         - Outstanding Graduating Student, Canadian Sociological Association
         - Kaspar Naegele Memorial Prize in Sociology, UBC
     - year: 2019
