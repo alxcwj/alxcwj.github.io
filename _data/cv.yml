@@ -19,20 +19,20 @@
       institution: Stanford University, Stanford, CA
       year: 2020 – Present
       description:
-        - "Dissertation: Social Significance of Education"
+        - "Dissertation: The Social Significance of Education"
         - "Dissertation Committee: Dr. Michelle Jackson (Advisor), Dr. Florencia Torche, Dr. David Grusky"
         - "Qualifying Exams: Social Stratification, Economic Sociology"
     - title: Master of Arts, Sociology
       institution: Stanford University, Stanford, CA
       year: 2022
       description:
-        - "Master’s Thesis: Master Expansion and Returns: A Causal Inference"
+        - "Master’s Thesis: Expansion and Returns: A Causal Inference Approach to the Positional Value of Education"
         - "Advisors: Dr. Michelle Jackson, Dr. Florencia Torche"
     - title: Bachelor of Arts, Sociology (Honours)
       institution: University of British Columbia, Vancouver, BC
       year: 2016 – 2020
       description:
-        - "Honors Thesis: in Canada: A Computational Grounded Theory Approach"
+        - "Honors Thesis: Complicating the International Student Classification in Canada: A Computational Grounded Theory Approach"
         - "Supervisor: Dr. Qiang Fu"
 
 - title: Research Interests
@@ -40,21 +40,21 @@
   contents:
     - Social stratification, inequality, mobility
     - Educational inequality, higher education
-    - Quantitative & statistical methods
-    - Computational methods, network analysis
-    - Natural language processing
+    - Quantitative, statistical, and survey methods
+    - Computational methods, network analysis, and natural language processing
 
 - title: Publications
   type: nested_list
   contents:
     - title: Peer-Reviewed Articles
       items:
-        - "Chow, Alex, and Neil Guppy. 2021. Canadian Review of Sociology."
+        - "Chow, Alex, and Neil Guppy. 2021. Intergenerational Educational Mobility Over the Past Century in Canada."
     - title: Works in Progress
       items:
-        - "Chow, Alex. How Much Does Education Matter for Social Status? Findings from a Conjoint Experiment. In preparation."
-        - "Qiao, Si, Junxi Qu, Rosina Pradhananga, Alex Chow, Sarah-Eve Dill, David Grusky, and Anthony Gar-On Yeh. Residential Relocation Reshapes Daily Exposure Segregation. Under review."
-        - "van der Velden, Max, David Grusky, and Alex Chow. A Supervised LLM System for Large-Scale, Data-Secure Qualitative Coding. In preparation."
+        - "Chow, Alex. \"The Subjective Social Ladder: Actual, Perceived, and Projected Mobility in 22 Countries.\" Under review."
+        - "Chow, Alex. \"How Much Does Education Matter for Social Status? Findings from a Conjoint Experiment.\" In preparation."
+        - "Qiao, Si, Junxi Qu, Rosina Pradhananga, Alex Chow, Sarah-Eve Dill, David Grusky, and Anthony Gar-On Yeh. \"Residential Relocation Reshapes Daily Exposure Segregation.\" Under review."
+        - "van der Velden, Max, David Grusky, and Alex Chow. \"A Supervised LLM System for Large-Scale, Data-Secure Qualitative Coding.\" In preparation."
 
 - title: Fellowships
   type: time_table
@@ -81,6 +81,7 @@
   contents:
     - year: 2020
       items:
+        - Governor General\'s Silver Medal in Arts, UBC
         - Outstanding Graduating Student, Canadian Sociological Association
         - Kaspar Naegele Memorial Prize in Sociology, UBC
     - year: 2019
@@ -97,44 +98,44 @@
 - title: Conference Presentations
   type: time_table
   contents:
-    - title: "How Much Does Education Matter for Social Status? Findings from a Conjoint Experiment"
-      institution: RC28 Online Meeting on Educational Inequalities, Sciences Po (Virtual)
+    - title: "How Much Does Education Matter for Social Status? Findings from a Conjoint Experiment."
+      institution: RC28 Online Meeting on Educational Inequalities | Sciences Po (Virtual)
       year: Jan 2026
-    - title: "American Sociological Association Annual Meeting 2025"
-      institution: Chicago, IL
+    - title: "Perceptions of Social Status: Findings from a Conjoint Experiment."
+      institution: American Sociological Association Annual Meeting 2025 | Chicago, IL
       year: Aug 2025
-    - title: "New Methods to Measure Intergenerational Mobility"
-      institution: Stone Center for Research on Wealth Inequality and Mobility, University of Chicago, IL
+    - title: "Perceptions of Social Status: Findings from a Conjoint Experiment."
+      institution: New Methods to Measure Intergenerational Mobility | Stone Center for Research on Wealth Inequality and Mobility, University of Chicago, IL
       year: Nov 2023
-    - title: "American Sociological Association Annual Meeting 2023"
-      institution: Philadelphia, PA
+    - title: "The Subjective Social Ladder: Actual, Perceived, and Projected Mobility in 22 Countries."
+      institution: American Sociological Association Annual Meeting 2023 | Philadelphia, PA
       year: Aug 2023
-    - title: "Liberal Social Classes: Actual and Perceived Levels of Income"
-      institution: International Sociological Association World Congress of Sociology 2023, Melbourne, Australia
+    - title: "The Post-Liberal Social Classes: Actual and Perceived Levels of Income Inequality and Associated Values."
+      institution: International Sociological Association World Congress of Sociology 2023 | Melbourne, Australia
       year: Jun 2023
-    - title: "American Sociological Association Annual Meeting 2022"
-      institution: Los Angeles, CA
+    - title: "Expansion and Returns: A Causal Inference Approach to the Positional Value of Education."
+      institution: American Sociological Association Annual Meeting 2022 | Los Angeles, CA
       year: Aug 2022
-    - title: "American Sociological Association Annual Meeting 2021"
-      institution: Virtual
+    - title: "Intergenerational Educational Assortative Mating: A Study of Individuals Born Between 1970 and 1985."
+      institution: American Sociological Association Annual Meeting 2021 | Virtual
       year: Aug 2021
-    - title: "Canadian Population Society Annual Meeting 2021"
-      institution: Virtual
+    - title: "Intergenerational Educational Assortative Mating: A Study of Individuals Born Between 1970 and 1985."
+      institution: Canadian Population Society Annual Meeting 2021 | Virtual
       year: May 2021
-    - title: "American Sociological Association Annual Meeting 2019 (Honors Program)"
-      institution: New York, NY
+    - title: "Intergenerational Educational Mobility Over the Past Century in Canada."
+      institution: American Sociological Association Annual Meeting 2019 (Honors Program) | New York, NY
       year: Aug 2019
-    - title: "Canadian Sociological Association Annual Meeting 2019"
-      institution: Vancouver, BC
+    - title: "Intergenerational Educational Mobility Over the Past Century in Canada."
+      institution: Canadian Sociological Association Annual Meeting 2019 | Vancouver, BC
       year: Jun 2019
-    - title: "UBC Anthropology and Sociology Undergraduate Conference 2019"
-      institution: Vancouver, BC
+    - title: "Intergenerational Educational Mobility Over the Past Century in Canada."
+      institution: UBC Anthropology and Sociology Undergraduate Conference 2019 | Vancouver, BC
       year: May 2019
-    - title: "UBC Multidisciplinary Undergraduate Research Conference 2019"
-      institution: Vancouver, BC
+    - title: "Intergenerational Educational Mobility Over the Past Century in Canada."
+      institution: UBC Multidisciplinary Undergraduate Research Conference 2019 | Vancouver, BC
       year: Mar 2019
-    - title: "Harvard University National Collegiate Research Conference 2019"
-      institution: Cambridge, MA
+    - title: "Intergenerational Educational Mobility Over the Past Century in Canada."
+      institution: Harvard University National Collegiate Research Conference 2019 | Cambridge, MA
       year: Jan 2019
 
 - title: Research Experience
@@ -144,16 +145,16 @@
       institution: Stanford, CA
       year: 2020 – Present
       description:
-        - "Jun 2025 – Present: Voices Lab Research Assistant for Dr. David Grusky, Stanford Center on Poverty and Inequality"
-        - "Mar 2023 – Present: Social Networks Lab and Cellphone Lab Coordinator and Research Assistant for Dr. David Grusky, Stanford Center on Poverty and Inequality"
-        - "Sep 2022 – May 2023: Research Assistant for Dr. Florencia Torche, Stanford Department of Sociology"
+        - "Jun 2025 – Present: Voices Lab: \"American Voices Project.\" Research Assistant for Dr. David Grusky, Stanford Center on Poverty and Inequality."
+        - "Mar 2023 – Present: Social Networks Lab: \"Social Networks and Cellphone Mobility Data.\" Lab Coordinator and Research Assistant for Dr. David Grusky, Stanford Center on Poverty and Inequality."
+        - "Sep 2022 – May 2023: \"COVID and Infant Health.\" Research Assistant for Dr. Florencia Torche, Stanford Department of Sociology."
     - title: University of British Columbia
       institution: Vancouver, BC
       year: 2016 – 2020
       description:
-        - "May 2018 – May 2021: Co-Investigator with Dr. Neil Guppy, UBC Department of Sociology"
-        - "May 2019 – Dec 2019: Data Science for Social Good Research Fellow, National Energy Board & UBC Data Science Institute"
-        - "May 2019 – Dec 2019: Research Assistant for Dr. Yue Qian, UBC Department of Sociology"
+        - "May 2018 – May 2021: \"Intergenerational Educational Mobility Over the Past Century in Canada.\" Co-Investigator with Dr. Neil Guppy, UBC Department of Sociology."
+        - "May 2019 – Dec 2019: \"Developing Natural Language Processing Tools for Sharing of Indigenous and Community Knowledge.\" Data Science for Social Good Research Fellow, National Energy Board & UBC Data Science Institute."
+        - "May 2019 – Dec 2019: \"Romantic Relationships in Canada.\" Research Assistant for Dr. Yue Qian, UBC Department of Sociology."
 
 - title: Teaching & Mentorship
   type: time_table
