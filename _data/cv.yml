@@ -8,7 +8,7 @@
     - name: Email
       value: alexwjchow[at]stanford.edu
     - name: Updated
-      value: Jan 2026
+      value: March 2026
 
 - title: Education
   type: time_table
@@ -36,10 +36,9 @@
 - title: Research Interests
   type: list
   contents:
-    - Social stratification, inequality, mobility
-    - Educational inequality, higher education
-    - Quantitative, statistical, and survey methods
-    - Computational methods, network analysis, and natural language processing
+    - "Social stratification, Educational inequality, Social mobility, Higher education, Status"
+    - "Quantitative and statistical analysis, Survey design, Computational methods"
+    - "Network analysis, Natural language processing, Large language models"
 
 - title: Publications
   type: nested_list
@@ -136,48 +135,93 @@
       institution: Harvard University National Collegiate Research Conference 2019 | Cambridge, MA
       year: Jan 2019
 
-- title: Research Experience
+- title: Research
   type: time_table
   contents:
-    - title: Stanford University
-      institution: Stanford, CA
-      year: 2020 – Present
+    - title: Graduate Researcher
+      institution: Stanford University | Stanford, CA
+      year: Jun 2025 – Present
       description:
-        - "Jun 2025 – Present: Voices Lab: \"American Voices Project.\" Research Assistant for Dr. David Grusky, Stanford Center on Poverty and Inequality."
-        - "Mar 2023 – Present: Social Networks Lab: \"Social Networks and Cellphone Mobility Data.\" Lab Coordinator and Research Assistant for Dr. David Grusky, Stanford Center on Poverty and Inequality."
-        - "Sep 2022 – May 2023: \"COVID and Infant Health.\" Research Assistant for Dr. Florencia Torche, Stanford Department of Sociology."
-    - title: University of British Columbia
-      institution: Vancouver, BC
-      year: 2016 – 2020
+        - "Voices Lab: \"American Voices Project.\" for Dr. David Grusky, Stanford Center on Poverty and Inequality."
+    - title: Lab Coordinator and Graduate Researcher
+      institution: Stanford University | Stanford, CA
+      year: Mar 2023 – Present
       description:
-        - "May 2018 – May 2021: \"Intergenerational Educational Mobility Over the Past Century in Canada.\" Co-Investigator with Dr. Neil Guppy, UBC Department of Sociology."
-        - "May 2019 – Dec 2019: \"Developing Natural Language Processing Tools for Sharing of Indigenous and Community Knowledge.\" Data Science for Social Good Research Fellow, National Energy Board & UBC Data Science Institute."
-        - "May 2019 – Dec 2019: \"Romantic Relationships in Canada.\" Research Assistant for Dr. Yue Qian, UBC Department of Sociology."
+        - "Social Networks Lab: \"Social Networks and Cellphone Mobility Data.\" for Dr. David Grusky, Stanford Center on Poverty and Inequality."
+    - title: Graduate Researcher
+      institution: Stanford University | Stanford, CA
+      year: Sep 2022 – May 2023
+      description:
+        - "\"COVID and Infant Health.\" for Dr. Florencia Torche, Stanford Department of Sociology."
+    - title: Co-Investigator
+      institution: University of British Columbia | Vancouver, BC
+      year: May 2018 – May 2021
+      description:
+        - "\"Intergenerational Educational Mobility Over the Past Century in Canada.\" with Dr. Neil Guppy, UBC Department of Sociology."
+    - title: Data Science for Social Good Research Fellow
+      institution: University of British Columbia | Vancouver, BC
+      year: May 2019 – Dec 2019
+      description:
+        - "\"Developing Natural Language Processing Tools for Sharing of Indigenous and Community Knowledge.\" with National Energy Board & UBC Data Science Institute."
+    - title: Undergraduate Research Assistant
+      institution: University of British Columbia | Vancouver, BC
+      year: May 2019 – Dec 2019
+      description:
+        - "\"Romantic Relationships in Canada.\" for Dr. Yue Qian, UBC Department of Sociology."
 
-- title: Teaching & Mentorship
+- title: Teaching
   type: time_table
   contents:
-    - title: Stanford University
-      institution: Stanford, CA
-      year: 2020 – 2025
+    - title: Graduate Teaching Assistant
+      institution: Stanford University | Stanford, CA
+      year: 2021 – 2023
       description:
-        - "Nov 2024 – Aug 2025: Graduate Research Assistant Internship Supervisor, Stanford Institute for Research in the Social Sciences Research Experience Program"
-        - "Jun 2021 – Aug 2021: Graduate Research Mentor, Stanford Summer Research Early Identification Program"
-        - "Jan 2023 – Mar 2023: Graduate Teaching Assistant, SOC 382: Sociological Methodology II (Statistics for an Open Science: Principles of Regression II)"
-        - "Sep 2022 – Dec 2022: Graduate Teaching Assistant, SOC 381: Sociological Methodology I (Introduction)"
-        - "Sep 2021 – Dec 2021: Graduate Teaching Assistant, SOC 114/214: Economic Sociology"
-    - title: University of British Columbia
-      institution: Vancouver, BC
-      year: 2016 – 2020
+        - "\"SOC 382: Sociological Methodology II (Statistics for an Open Science: Principles of Regression II)\" for Dr. Michelle Jackson, Stanford Department of Sociology (Jan 2023 – Mar 2023)"
+        - "\"SOC 381: Sociological Methodology I (Introduction)\" for Dr. Michelle Jackson, Stanford Department of Sociology (Sep 2022 – Dec 2022)"
+        - "\"SOC 114/214: Economic Sociology\" for Dr. Mark Granovetter, Stanford Department of Sociology (Sep 2021 – Dec 2021)"
+    - title: Undergraduate Teaching Assistant
+      institution: University of British Columbia | Vancouver, BC
+      year: 2018 – 2020
       description:
-        - "May 2020 – Jun 2020: Undergraduate Teaching Assistant, ANTH/SOCI 480: Urban Ethnographic Field School"
-        - "Jan 2020 – Apr 2020: Undergraduate Teaching Assistant, SOCI 372: Contemporary Directions in Theory"
-        - "Sep 2019 – Apr 2020: Undergraduate Teaching Assistant, DSCI 100: Introduction to Data Science"
-        - "Sep 2019 – Dec 2019: Undergraduate Teaching Assistant, SOCI 301: Development and Underdevelopment"
-        - "Sep 2018 – May 2019: Undergraduate Teaching Assistant, SOCI 100: Introduction to Sociology"
-        - "Sep 2019 – Apr 2020: Student Directed Seminar Leader and Coordinator, SOCI 433: Scaling the Ivory Tower: Sociology of Higher Education"
-        - "Oct 2019: Workshop Leader and Coordinator, Undergraduate Social Statistics Study Group"
-        - "Sep 2017 – Apr 2019: Mentorship Program Coordinator (2018–2019) and Peer Mentor (2017–2019), Coordinated Arts Program"
+        - "\"ANTH/SOCI 480: Urban Ethnographic Field School\" for Dr. Kerry Greer, UBC Department of Sociology (May 2020 – Jun 2020)"
+        - "\"SOCI 372: Contemporary Directions in Theory\" for Dr. Sanjeev Routray, UBC Department of Sociology (Jan 2020 – Apr 2020)"
+        - "\"DSCI 100: Introduction to Data Science\" for Dr. Tiffany Timbers, UBC Department of Sociology (Sep 2019 – Apr 2020)"
+        - "\"SOCI 301: Development and Underdevelopment\" for Dr. Oral Robinson, UBC Department of Sociology (Sep 2019 – Dec 2019)"
+        - "\"SOCI 100: Introduction to Sociology\" for Dr. Kerry Greer, UBC Department of Sociology (Sep 2018 – May 2019)"
+    - title: Student Directed Seminar Leader and Coordinator
+      institution: University of British Columbia | Vancouver, BC
+      year: Sep 2019 – May 2020
+      description:
+        - "\"SOCI 433: Scaling the Ivory Tower: Sociology of Higher Education\" with Dr. Neil Guppy, UBC Department of Sociology"
+    - title: Workshop Leader and Coordinator
+      institution: University of British Columbia | Vancouver, BC
+      year: Oct 2019
+      description:
+        - "Undergraduate Social Statistics Study Group, UBC Department of Sociology"
+
+- title: Mentorship
+  type: time_table
+  contents:
+    - title: Graduate Research Assistant Internship Supervisor
+      institution: Stanford University | Stanford, CA
+      year: Nov 2024 – Aug 2025
+      description:
+        - "Stanford Institute for Research in the Social Sciences Research Experience Program"
+    - title: Graduate Research Mentor
+      institution: Stanford University | Stanford, CA
+      year: Jun 2021 – Aug 2021
+      description:
+        - "Stanford Summer Research Early Identification Program"
+    - title: Undergraduate Mentorship Program Coordinator
+      institution: University of British Columbia | Vancouver, BC
+      year: 2018 – 2019
+      description:
+        - "Coordinated Arts Program, UBC Faculty of Arts"
+    - title: Undergraduate Peer Mentor
+      institution: University of British Columbia | Vancouver, BC
+      year: 2017 – 2018
+      description:
+        - "Coordinated Arts Program, UBC Faculty of Arts"
 
 - title: Academic Service
   type: time_table
