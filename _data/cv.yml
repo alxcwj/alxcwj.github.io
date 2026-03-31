@@ -52,6 +52,9 @@
         - "Chow, Alex. \"How Much Does Education Matter for Social Status? Findings from a Conjoint Experiment.\" In preparation."
         - "Qiao, Si, Junxi Qu, Rosina Pradhananga, Alex Chow, Sarah-Eve Dill, David Grusky, and Anthony Gar-On Yeh. \"Residential Relocation Reshapes Daily Exposure Segregation.\" Under review."
         - "van der Velden, Max, David Grusky, and Alex Chow. \"A Supervised LLM System for Large-Scale, Data-Secure Qualitative Coding.\" In preparation."
+    - title: Other Publications
+      items:
+        - "Taylor, Alison, Stephanie Glick, Nasim Peikazadi, Alex Chow, and Beverly Allan. 2018. \"Creating Reciprocal and Ethical Learning Partnerships in the Downtown Eastside: Messages from participants on the development of partnership planning tools.\""
 
 - title: Fellowships
   type: time_table
@@ -226,14 +229,26 @@
 - title: Academic Service
   type: time_table
   contents:
-    - title: University of British Columbia
-      institution: Vancouver, BC
-      year: 2016 – 2020
+    - title: Advisory Committee Member
+      institution: University of British Columbia | Vancouver, BC
+      year: Jan 2019 – May 2020
       description:
-        - "Jan 2019 – May 2020: Advisory Committee Member, Advanced Research Cohort (ARC) Program, UBC Department of Sociology"
-        - "Jan 2019 – May 2019: Tenure-Track Instructor Hiring Committee Member, Coordinated Arts Program, UBC Faculty of Arts"
-        - "Sep 2017 – May 2019: Lead Typesetter (2018–2019) and Associate Editor (2017–2018), Sojourners: Undergraduate Journal of Sociology"
-        - "Feb 2018: Selection Panel Member, Arts Undergraduate Society Humanities and Social Sciences Conference"
+        - "Advanced Research Cohort (ARC) Program, UBC Department of Sociology"
+    - title: Tenure-Track Instructor Hiring Committee Member
+      institution: University of British Columbia | Vancouver, BC
+      year: Jan 2019 – May 2019
+      description:
+        - "Tenure-Track Instructor Hiring Committee, Coordinated Arts Program, UBC Faculty of Arts"
+    - title: Associate Editor and Lead Typesetter 
+      institution: University of British Columbia | Vancouver, BC
+      year: Sep 2017 – May 2019
+      description:
+        - "Sojourners: Undergraduate Journal of Sociology"
+    - title: Selection Panel Member
+      institution: University of British Columbia | Vancouver, BC
+      year: Feb 2018
+      description:
+        - "Arts Undergraduate Society Humanities and Social Sciences Conference (Feb 2018)"
 
 - title: Technical Skills
   type: list
